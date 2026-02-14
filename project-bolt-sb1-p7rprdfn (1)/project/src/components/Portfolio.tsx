@@ -68,7 +68,7 @@ const Portfolio: React.FC = () => {
     },
     {
       id: 5,
-      title: 'DHOKNE Brand Identity',
+      title: ' Brand Identity',
       category: 'branding',
       type: 'Personal Branding',
       image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=600',
